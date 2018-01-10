@@ -1,0 +1,17 @@
+E:\demo\ShowAndroidModel\ShowAndroidModel\bin\Release\ShowAndroidModel.exe
+E:\demo\ShowAndroidModel\ShowAndroidModel\bin\Release\ShowAndroidModel.pdb
+E:\demo\ShowAndroidModel\ShowAndroidModel\obj\Release\ShowAndroidModel.Form1.resources
+E:\demo\ShowAndroidModel\ShowAndroidModel\obj\Release\ShowAndroidModel.Properties.Resources.resources
+E:\demo\ShowAndroidModel\ShowAndroidModel\obj\Release\ShowAndroidModel.SetupForm.resources
+E:\demo\ShowAndroidModel\ShowAndroidModel\obj\Release\ShowAndroidModel.csproj.GenerateResource.Cache
+E:\demo\ShowAndroidModel\ShowAndroidModel\obj\Release\ShowAndroidModel.exe
+E:\demo\ShowAndroidModel\ShowAndroidModel\obj\Release\ShowAndroidModel.pdb
+E:\demo\ShowAndroidModel\ShowAndroidModel\obj\Release\ShowAndroidModel.csprojResolveAssemblyReference.cache
+E:\bak\demo\ShowAndroidModel\ShowAndroidModel\obj\Release\ShowAndroidModel.exe
+E:\bak\demo\ShowAndroidModel\ShowAndroidModel\obj\Release\ShowAndroidModel.pdb
+E:\bak\demo\ShowAndroidModel\ShowAndroidModel\bin\Release\ShowAndroidModel.exe
+E:\bak\demo\ShowAndroidModel\ShowAndroidModel\bin\Release\ShowAndroidModel.pdb
+E:\bak\demo\ShowAndroidModel\ShowAndroidModel\obj\Release\ShowAndroidModel.Form1.resources
+E:\bak\demo\ShowAndroidModel\ShowAndroidModel\obj\Release\ShowAndroidModel.Properties.Resources.resources
+E:\bak\demo\ShowAndroidModel\ShowAndroidModel\obj\Release\ShowAndroidModel.SetupForm.resources
+E:\bak\demo\ShowAndroidModel\ShowAndroidModel\obj\Release\ShowAndroidModel.csproj.GenerateResource.Cache
